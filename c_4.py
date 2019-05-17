@@ -9,6 +9,8 @@ b[1, 1] = 10
 print(a.shape)
 print(b.shape)
 print(a.dtype)
-print(b)
+print("a = ", a)
+print("b = ", b)
 
-
+print(a.size)
+print(b.size)
