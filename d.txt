@@ -1,0 +1,6 @@
+,Chinese,English,Math
+xumeng,66,65,30
+hanqing,95,85,98
+fuck,93,92,96
+love,90,88,77
+bibi,80,90,90
